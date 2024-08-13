@@ -1,6 +1,6 @@
 # H1 Shrink File Test
 
-*Written By:* Andy Yun
+*Written By:* Andy Yun<br>
 *Created On:* 2024-08-07
 
 ## H2 Question:
