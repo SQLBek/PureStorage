@@ -9,9 +9,6 @@ https://github.com/PureStorage-OpenConnect/sqlserver-scripts
 <!-- /wp:separator -->
 
 
-<!-- wp:separator -->
-<hr class="wp-block-separator"/>
-<!-- /wp:separator -->
 
 **Disclaimer:**
 <BR>
